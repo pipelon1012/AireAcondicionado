@@ -1,1 +1,0 @@
-﻿Hola Git! Este es un ensayo de commit.
